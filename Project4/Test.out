@@ -1,0 +1,15 @@
+<suite duration="141" locationUrl="java:suite://MyUnitTest" name="MyUnitTest" status="passed">
+    <test duration="61" locationUrl="java:test://MyUnitTest/testBoatRuns" name="testBoatRuns()" metainfo="" status="passed"/>
+    <test duration="2" locationUrl="java:test://MyUnitTest/testCarRunsOrSputters" name="testCarRunsOrSputters()" metainfo="" status="passed"/>
+    <test duration="42" locationUrl="java:test://MyUnitTest/testUserCommandConvertibleWashDecorator" name="testUserCommandConvertibleWashDecorator()" metainfo="" status="passed">
+        <output type="stdout">Enter a name:</output>
+    </test>
+    <test duration="6" locationUrl="java:test://MyUnitTest/testUserSingletonWithMultipleInstantiations" name="testUserSingletonWithMultipleInstantiations()" metainfo="" status="passed"/>
+    <test duration="4" locationUrl="java:test://MyUnitTest/testMonsterDrivesOrCrash" name="testMonsterDrivesOrCrash()" metainfo="" status="passed"/>
+    <test duration="8" locationUrl="java:test://MyUnitTest/testUserCommandTruckUnlock" name="testUserCommandTruckUnlock()" metainfo="" status="passed"/>
+    <test duration="3" locationUrl="java:test://MyUnitTest/testCorrectClassTypeInstantiationFromFactory" name="testCorrectClassTypeInstantiationFromFactory()" metainfo="" status="passed"/>
+    <test duration="9" locationUrl="java:test://MyUnitTest/testUserCommandLockMotorCycle" name="testUserCommandLockMotorCycle()" metainfo="" status="passed"/>
+    <test duration="5" locationUrl="java:test://MyUnitTest/testUserCommandMonsterWashDecorator" name="testUserCommandMonsterWashDecorator()" metainfo="" status="passed"/>
+    <test duration="1" locationUrl="java:test://MyUnitTest/testUserCreation" name="testUserCreation()" metainfo="" status="passed"/>
+</suite>
+

@@ -1,0 +1,489 @@
+/Users/manan/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49990:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/manan/Downloads/OOAD/OOADProjects/OOADProjectSU21/Project4/out/production/Project4:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter/5.7.0/junit-jupiter-5.7.0.jar:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.jar:/Users/manan/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/manan/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/manan/.m2/repository/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.jar:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.7.0/junit-jupiter-params-5.7.0.jar:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0.jar:/Users/manan/.m2/repository/org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0.jar:/Users/manan/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/manan/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/manan/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/manan/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/manan/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/manan/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/manan/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar Garage
+A Day at the Garage
+Enter a name: Manan
+Garage menu. Current time is 900!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+2
+ERROR: Need to unlock vehicles before this action.
+Garage menu. Current time is 1000!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+1
+Manan unlocking Bike B00000. Bike B00000 unlocked.
+Manan unlocking Trike T00000. Trike T00000 unlocked.
+Manan unlocking Sidecar S00000. Sidecar S00000 unlocked.
+Manan unlocking Hatchback H00000. Hatchback H00000 unlocked.
+Manan unlocking SUV S50000. SUV S50000 unlocked.
+Manan unlocking Wagon W00000. Wagon W00000 unlocked.
+Manan unlocking Convertible C00000. Convertible C00000 unlocked.
+Manan unlocking Pickup P00000. Pickup P00000 unlocked.
+Manan unlocking Delivery D00000. Delivery D00000 unlocked.
+Manan unlocking Monster M00000. Monster M00000 unlocked.
+Manan unlocking FishingBoat F00000. FishingBoat F00000 unlocked.
+Manan unlocking LifeBoat L00000. LifeBoat L00000 unlocked.
+All vehicles are unlocked.
+
+Garage menu. Current time is 1100!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+5
+Manan locking up Bike B00000. Bike B00000 locked.
+Manan locking up Trike T00000. Trike T00000 locked.
+Manan locking up Sidecar S00000. Sidecar S00000 locked.
+Manan locking up Hatchback H00000. Hatchback H00000 locked.
+Manan locking up SUV S50000. SUV S50000 locked.
+Manan locking up Wagon W00000. Wagon W00000 locked.
+Manan locking up Convertible C00000. Convertible C00000 locked.
+Manan locking up Pickup P00000. Pickup P00000 locked.
+Manan locking up Delivery D00000. Delivery D00000 locked.
+Manan locking up Monster M00000. Monster M00000 locked.
+Manan locking up FishingBoat F00000. FishingBoat F00000 locked.
+Manan locking up LifeBoat L00000. LifeBoat L00000 locked.
+All vehicles are locked.
+
+Garage menu. Current time is 1200!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+9
+Ending for the day...
+
+Process finished with exit code 0
+
+========================================================================================
+
+/Users/manan/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=49994:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/manan/Downloads/OOAD/OOADProjects/OOADProjectSU21/Project4/out/production/Project4:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter/5.7.0/junit-jupiter-5.7.0.jar:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.jar:/Users/manan/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/manan/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/manan/.m2/repository/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.jar:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.7.0/junit-jupiter-params-5.7.0.jar:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0.jar:/Users/manan/.m2/repository/org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0.jar:/Users/manan/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/manan/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/manan/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/manan/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/manan/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/manan/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/manan/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar Garage
+A Day at the Garage
+Enter a name: Tavishi
+Garage menu. Current time is 900!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+1
+Tavishi unlocking Bike B00000. Bike B00000 unlocked.
+Tavishi unlocking Trike T00000. Trike T00000 unlocked.
+Tavishi unlocking Sidecar S00000. Sidecar S00000 unlocked.
+Tavishi unlocking Hatchback H00000. Hatchback H00000 unlocked.
+Tavishi unlocking SUV S50000. SUV S50000 unlocked.
+Tavishi unlocking Wagon W00000. Wagon W00000 unlocked.
+Tavishi unlocking Convertible C00000. Convertible C00000 unlocked.
+Tavishi unlocking Pickup P00000. Pickup P00000 unlocked.
+Tavishi unlocking Delivery D00000. Delivery D00000 unlocked.
+Tavishi unlocking Monster M00000. Monster M00000 unlocked.
+Tavishi unlocking FishingBoat F00000. FishingBoat F00000 unlocked.
+Tavishi unlocking LifeBoat L00000. LifeBoat L00000 unlocked.
+All vehicles are unlocked.
+
+Garage menu. Current time is 1000!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+2
+Tavishi washing Bike B00000. Bike B00000 Soaped. Bike B00000 Scrubbed. Bike B00000 Rinsed. Bike B00000 Dried. Bike B00000 shines.
+Tavishi washing Trike T00000. Trike T00000 Soaped. Trike T00000 Scrubbed. Trike T00000 Rinsed. Trike T00000 Dried. Trike T00000 sparkles.
+Tavishi washing Sidecar S00000. Sidecar S00000 Soaped. Sidecar S00000 Scrubbed. Sidecar S00000 Rinsed. Sidecar S00000 Dried. Sidecar S00000 shines.
+Tavishi washing Hatchback H00000. Hatchback H00000 Soaped. Hatchback H00000 Scrubbed. Hatchback H00000 Rinsed. Hatchback H00000 Dried. Hatchback H00000 shines.
+Tavishi washing SUV S50000. SUV S50000 Soaped. SUV S50000 Scrubbed. SUV S50000 Rinsed. SUV S50000 Dried. SUV S50000 shines.
+Tavishi washing Wagon W00000. Wagon W00000 Soaped. Wagon W00000 Scrubbed. Wagon W00000 Rinsed. Wagon W00000 Dried. Wagon W00000 sparkles.
+Tavishi washing Convertible C00000. Convertible C00000 Soaped. Convertible C00000 Scrubbed. Convertible C00000 Rinsed. Convertible C00000 Dried. Convertible C00000 Waxed. Convertible C00000 Detailed. Convertible C00000 Detailed. Convertible C00000 sparkles.
+Tavishi washing Pickup P00000. Pickup P00000 Soaped. Pickup P00000 Scrubbed. Pickup P00000 Rinsed. Pickup P00000 Dried. Pickup P00000 sparkles.
+Tavishi washing Delivery D00000. Delivery D00000 Soaped. Delivery D00000 Scrubbed. Delivery D00000 Rinsed. Delivery D00000 Dried. Delivery D00000 sparkles.
+Tavishi washing Monster M00000. Monster M00000 Soaped. Monster M00000 Scrubbed. Monster M00000 Rinsed. Monster M00000 Dried. Monster M00000 Waxed. Monster M00000 Waxed. Monster M00000 Polished. Monster M00000 Detailed. Monster M00000 sparkles.
+Tavishi washing FishingBoat F00000. FishingBoat F00000 Soaped. FishingBoat F00000 Scrubbed. FishingBoat F00000 Rinsed. FishingBoat F00000 Dried. FishingBoat F00000 shines.
+Tavishi washing LifeBoat L00000. LifeBoat L00000 Soaped. LifeBoat L00000 Scrubbed. LifeBoat L00000 Rinsed. LifeBoat L00000 Dried. LifeBoat L00000 shines.
+All vehicles are washed.
+
+Garage menu. Current time is 1100!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+3
+Tavishi tuning up Bike B00000. Bike B00000 runs.
+Tavishi tuning up Trike T00000. Trike T00000 runs.
+Tavishi tuning up Sidecar S00000. Sidecar S00000 runs.
+Tavishi tuning up Hatchback H00000. Hatchback H00000 runs.
+Tavishi tuning up SUV S50000. SUV S50000 runs.
+Tavishi tuning up Wagon W00000. Wagon W00000 runs.
+Tavishi tuning up Convertible C00000. Convertible C00000 runs.
+Tavishi tuning up Pickup P00000. Pickup P00000 runs.
+Tavishi tuning up Delivery D00000. Delivery D00000 runs.
+Tavishi tuning up Monster M00000. Monster M00000 runs.
+Tavishi tuning up FishingBoat F00000. FishingBoat F00000 runs.
+Tavishi tuning up LifeBoat L00000. LifeBoat L00000 runs.
+All vehicles are tuned up.
+
+Garage menu. Current time is 1200!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+4
+Tavishi test driving Bike B00000. Bike B00000 drives.
+Tavishi test driving Trike T00000. Trike T00000 drives.
+Tavishi test driving Sidecar S00000. Sidecar S00000 drives.
+Tavishi test driving Hatchback H00000. Hatchback H00000 drives.
+Tavishi test driving SUV S50000. SUV S50000 drives.
+Tavishi test driving Wagon W00000. Wagon W00000 drives.
+Tavishi test driving Convertible C00000. Convertible C00000 drives.
+Tavishi test driving Pickup P00000. Pickup P00000 drives.
+Tavishi test driving Delivery D00000. Delivery D00000 drives.
+Tavishi test driving Monster M00000. Monster M00000 drives.
+Tavishi test driving FishingBoat F00000. FishingBoat F00000 drives.
+Tavishi test driving LifeBoat L00000. LifeBoat L00000 drives.
+All vehicles drive.
+
+Garage menu. Current time is 1300!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+5
+Tavishi locking up Bike B00000. Bike B00000 locked.
+Tavishi locking up Trike T00000. Trike T00000 locked.
+Tavishi locking up Sidecar S00000. Sidecar S00000 locked.
+Tavishi locking up Hatchback H00000. Hatchback H00000 locked.
+Tavishi locking up SUV S50000. SUV S50000 locked.
+Tavishi locking up Wagon W00000. Wagon W00000 locked.
+Tavishi locking up Convertible C00000. Convertible C00000 locked.
+Tavishi locking up Pickup P00000. Pickup P00000 locked.
+Tavishi locking up Delivery D00000. Delivery D00000 locked.
+Tavishi locking up Monster M00000. Monster M00000 locked.
+Tavishi locking up FishingBoat F00000. FishingBoat F00000 locked.
+Tavishi locking up LifeBoat L00000. LifeBoat L00000 locked.
+All vehicles are locked.
+
+Garage menu. Current time is 1400!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+9
+Ending for the day...
+
+Process finished with exit code 0
+
+========================================================================================
+
+/Users/manan/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50002:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/manan/Downloads/OOAD/OOADProjects/OOADProjectSU21/Project4/out/production/Project4:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter/5.7.0/junit-jupiter-5.7.0.jar:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.jar:/Users/manan/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar:/Users/manan/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/manan/.m2/repository/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.jar:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.7.0/junit-jupiter-params-5.7.0.jar:/Users/manan/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0.jar:/Users/manan/.m2/repository/org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0.jar:/Users/manan/.m2/repository/org/testng/testng/7.1.0/testng-7.1.0.jar:/Users/manan/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/manan/.m2/repository/com/google/inject/guice/4.1.0/guice-4.1.0-no_aop.jar:/Users/manan/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar:/Users/manan/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/manan/.m2/repository/com/google/guava/guava/19.0/guava-19.0.jar:/Users/manan/.m2/repository/org/yaml/snakeyaml/1.21/snakeyaml-1.21.jar Garage
+A Day at the Garage
+Enter a name: Marco
+Garage menu. Current time is 900!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+1
+Marco unlocking Bike B00000. Bike B00000 unlocked.
+Marco unlocking Trike T00000. Trike T00000 unlocked.
+Marco unlocking Sidecar S00000. Sidecar S00000 unlocked.
+Marco unlocking Hatchback H00000. Hatchback H00000 unlocked.
+Marco unlocking SUV S50000. SUV S50000 unlocked.
+Marco unlocking Wagon W00000. Wagon W00000 unlocked.
+Marco unlocking Convertible C00000. Convertible C00000 unlocked.
+Marco unlocking Pickup P00000. Pickup P00000 unlocked.
+Marco unlocking Delivery D00000. Delivery D00000 unlocked.
+Marco unlocking Monster M00000. Monster M00000 unlocked.
+Marco unlocking FishingBoat F00000. FishingBoat F00000 unlocked.
+Marco unlocking LifeBoat L00000. LifeBoat L00000 unlocked.
+All vehicles are unlocked.
+
+Garage menu. Current time is 1000!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+2
+Marco washing Bike B00000. Bike B00000 Soaped. Bike B00000 Scrubbed. Bike B00000 Rinsed. Bike B00000 Dried. Bike B00000 shines.
+Marco washing Trike T00000. Trike T00000 Soaped. Trike T00000 Scrubbed. Trike T00000 Rinsed. Trike T00000 Dried. Trike T00000 shines.
+Marco washing Sidecar S00000. Sidecar S00000 Soaped. Sidecar S00000 Scrubbed. Sidecar S00000 Rinsed. Sidecar S00000 Dried. Sidecar S00000 shines.
+Marco washing Hatchback H00000. Hatchback H00000 Soaped. Hatchback H00000 Scrubbed. Hatchback H00000 Rinsed. Hatchback H00000 Dried. Hatchback H00000 shines.
+Marco washing SUV S50000. SUV S50000 Soaped. SUV S50000 Scrubbed. SUV S50000 Rinsed. SUV S50000 Dried. SUV S50000 shines.
+Marco washing Wagon W00000. Wagon W00000 Soaped. Wagon W00000 Scrubbed. Wagon W00000 Rinsed. Wagon W00000 Dried. Wagon W00000 shines.
+Marco washing Convertible C00000. Convertible C00000 Soaped. Convertible C00000 Scrubbed. Convertible C00000 Rinsed. Convertible C00000 Dried. Convertible C00000 Waxed. Convertible C00000 Detailed. Convertible C00000 Detailed. Convertible C00000 sparkles.
+Marco washing Pickup P00000. Pickup P00000 Soaped. Pickup P00000 Scrubbed. Pickup P00000 Rinsed. Pickup P00000 Dried. Pickup P00000 shines.
+Marco washing Delivery D00000. Delivery D00000 Soaped. Delivery D00000 Scrubbed. Delivery D00000 Rinsed. Delivery D00000 Dried. Delivery D00000 shines.
+Marco washing Monster M00000. Monster M00000 Soaped. Monster M00000 Scrubbed. Monster M00000 Rinsed. Monster M00000 Dried. Monster M00000 Waxed. Monster M00000 Waxed. Monster M00000 Polished. Monster M00000 Detailed. Monster M00000 shines.
+Marco washing FishingBoat F00000. FishingBoat F00000 Soaped. FishingBoat F00000 Scrubbed. FishingBoat F00000 Rinsed. FishingBoat F00000 Dried. FishingBoat F00000 sparkles.
+Marco washing LifeBoat L00000. LifeBoat L00000 Soaped. LifeBoat L00000 Scrubbed. LifeBoat L00000 Rinsed. LifeBoat L00000 Dried. LifeBoat L00000 shines.
+All vehicles are washed.
+
+Garage menu. Current time is 1100!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+3
+Marco tuning up Bike B00000. Bike B00000 runs.
+Marco tuning up Trike T00000. Trike T00000 runs.
+Marco tuning up Sidecar S00000. Sidecar S00000 runs.
+Marco tuning up Hatchback H00000. Hatchback H00000 runs.
+Marco tuning up SUV S50000. SUV S50000 runs.
+Marco tuning up Wagon W00000. Wagon W00000 runs.
+Marco tuning up Convertible C00000. Convertible C00000 runs.
+Marco tuning up Pickup P00000. Pickup P00000 runs.
+Marco tuning up Delivery D00000. Delivery D00000 runs.
+Marco tuning up Monster M00000. Monster M00000 runs.
+Marco tuning up FishingBoat F00000. FishingBoat F00000 runs.
+Marco tuning up LifeBoat L00000. LifeBoat L00000 runs.
+All vehicles are tuned up.
+
+Garage menu. Current time is 1200!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+4
+Marco test driving Bike B00000. Bike B00000 drives.
+Marco test driving Trike T00000. Trike T00000 drives.
+Marco test driving Sidecar S00000. Sidecar S00000 drives.
+Marco test driving Hatchback H00000. Hatchback H00000 drives.
+Marco test driving SUV S50000. SUV S50000 drives.
+Marco test driving Wagon W00000. Wagon W00000 drives.
+Marco test driving Convertible C00000. Convertible C00000 drives.
+Marco test driving Pickup P00000. Pickup P00000 drives.
+Marco test driving Delivery D00000. Delivery D00000 drives.
+Marco test driving Monster M00000. Monster M00000 drives.
+Marco test driving FishingBoat F00000. FishingBoat F00000 drives.
+Marco test driving LifeBoat L00000. LifeBoat L00000 drives.
+All vehicles drive.
+
+Garage menu. Current time is 1300!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+5
+Marco locking up Bike B00000. Bike B00000 locked.
+Marco locking up Trike T00000. Trike T00000 locked.
+Marco locking up Sidecar S00000. Sidecar S00000 locked.
+Marco locking up Hatchback H00000. Hatchback H00000 locked.
+Marco locking up SUV S50000. SUV S50000 locked.
+Marco locking up Wagon W00000. Wagon W00000 locked.
+Marco locking up Convertible C00000. Convertible C00000 locked.
+Marco locking up Pickup P00000. Pickup P00000 locked.
+Marco locking up Delivery D00000. Delivery D00000 locked.
+Marco locking up Monster M00000. Monster M00000 locked.
+Marco locking up FishingBoat F00000. FishingBoat F00000 locked.
+Marco locking up LifeBoat L00000. LifeBoat L00000 locked.
+All vehicles are locked.
+
+Garage menu. Current time is 1400!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+1
+Marco unlocking Bike B00000. Bike B00000 unlocked.
+Marco unlocking Trike T00000. Trike T00000 unlocked.
+Marco unlocking Sidecar S00000. Sidecar S00000 unlocked.
+Marco unlocking Hatchback H00000. Hatchback H00000 unlocked.
+Marco unlocking SUV S50000. SUV S50000 unlocked.
+Marco unlocking Wagon W00000. Wagon W00000 unlocked.
+Marco unlocking Convertible C00000. Convertible C00000 unlocked.
+Marco unlocking Pickup P00000. Pickup P00000 unlocked.
+Marco unlocking Delivery D00000. Delivery D00000 unlocked.
+Marco unlocking Monster M00000. Monster M00000 unlocked.
+Marco unlocking FishingBoat F00000. FishingBoat F00000 unlocked.
+Marco unlocking LifeBoat L00000. LifeBoat L00000 unlocked.
+All vehicles are unlocked.
+
+Garage menu. Current time is 1500!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+2
+Marco washing Bike B00000. Bike B00000 Soaped. Bike B00000 Scrubbed. Bike B00000 Rinsed. Bike B00000 Dried. Bike B00000 shines.
+Marco washing Trike T00000. Trike T00000 Soaped. Trike T00000 Scrubbed. Trike T00000 Rinsed. Trike T00000 Dried. Trike T00000 shines.
+Marco washing Sidecar S00000. Sidecar S00000 Soaped. Sidecar S00000 Scrubbed. Sidecar S00000 Rinsed. Sidecar S00000 Dried. Sidecar S00000 shines.
+Marco washing Hatchback H00000. Hatchback H00000 Soaped. Hatchback H00000 Scrubbed. Hatchback H00000 Rinsed. Hatchback H00000 Dried. Hatchback H00000 shines.
+Marco washing SUV S50000. SUV S50000 Soaped. SUV S50000 Scrubbed. SUV S50000 Rinsed. SUV S50000 Dried. SUV S50000 sparkles.
+Marco washing Wagon W00000. Wagon W00000 Soaped. Wagon W00000 Scrubbed. Wagon W00000 Rinsed. Wagon W00000 Dried. Wagon W00000 sparkles.
+Marco washing Convertible C00000. Convertible C00000 Soaped. Convertible C00000 Scrubbed. Convertible C00000 Rinsed. Convertible C00000 Dried. Convertible C00000 Waxed. Convertible C00000 Detailed. Convertible C00000 Detailed. Convertible C00000 shines.
+Marco washing Pickup P00000. Pickup P00000 Soaped. Pickup P00000 Scrubbed. Pickup P00000 Rinsed. Pickup P00000 Dried. Pickup P00000 shines.
+Marco washing Delivery D00000. Delivery D00000 Soaped. Delivery D00000 Scrubbed. Delivery D00000 Rinsed. Delivery D00000 Dried. Delivery D00000 sparkles.
+Marco washing Monster M00000. Monster M00000 Soaped. Monster M00000 Scrubbed. Monster M00000 Rinsed. Monster M00000 Dried. Monster M00000 Waxed. Monster M00000 Waxed. Monster M00000 Polished. Monster M00000 Detailed. Monster M00000 sparkles.
+Marco washing FishingBoat F00000. FishingBoat F00000 Soaped. FishingBoat F00000 Scrubbed. FishingBoat F00000 Rinsed. FishingBoat F00000 Dried. FishingBoat F00000 sparkles.
+Marco washing LifeBoat L00000. LifeBoat L00000 Soaped. LifeBoat L00000 Scrubbed. LifeBoat L00000 Rinsed. LifeBoat L00000 Dried. LifeBoat L00000 sparkles.
+All vehicles are washed.
+
+Garage menu. Current time is 1600!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+3
+Marco tuning up Bike B00000. Bike B00000 runs.
+Marco tuning up Trike T00000. Trike T00000 runs.
+Marco tuning up Sidecar S00000. Sidecar S00000 runs.
+Marco tuning up Hatchback H00000. Hatchback H00000 runs.
+Marco tuning up SUV S50000. SUV S50000 runs.
+Marco tuning up Wagon W00000. Wagon W00000 runs.
+Marco tuning up Convertible C00000. Convertible C00000 runs.
+Marco tuning up Pickup P00000. Pickup P00000 runs.
+Marco tuning up Delivery D00000. Delivery D00000 runs.
+Marco tuning up Monster M00000. Monster M00000 runs.
+Marco tuning up FishingBoat F00000. FishingBoat F00000 runs.
+Marco tuning up LifeBoat L00000. LifeBoat L00000 runs.
+All vehicles are tuned up.
+
+Garage menu. Current time is 1700!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+4
+Marco test driving Bike B00000. Bike B00000 drives.
+Marco test driving Trike T00000. Trike T00000 drives.
+Marco test driving Sidecar S00000. Sidecar S00000 drives.
+Marco test driving Hatchback H00000. Hatchback H00000 drives.
+Marco test driving SUV S50000. SUV S50000 drives.
+Marco test driving Wagon W00000. Wagon W00000 drives.
+Marco test driving Convertible C00000. Convertible C00000 drives.
+Marco test driving Pickup P00000. Pickup P00000 drives.
+Marco test driving Delivery D00000. Delivery D00000 drives.
+Marco test driving Monster M00000. Monster M00000 drives.
+Marco test driving FishingBoat F00000. FishingBoat F00000 drives.
+Marco test driving LifeBoat L00000. LifeBoat L00000 drives.
+All vehicles drive.
+
+Garage menu. Current time is 1800!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+5
+Marco locking up Bike B00000. Bike B00000 locked.
+Marco locking up Trike T00000. Trike T00000 locked.
+Marco locking up Sidecar S00000. Sidecar S00000 locked.
+Marco locking up Hatchback H00000. Hatchback H00000 locked.
+Marco locking up SUV S50000. SUV S50000 locked.
+Marco locking up Wagon W00000. Wagon W00000 locked.
+Marco locking up Convertible C00000. Convertible C00000 locked.
+Marco locking up Pickup P00000. Pickup P00000 locked.
+Marco locking up Delivery D00000. Delivery D00000 locked.
+Marco locking up Monster M00000. Monster M00000 locked.
+Marco locking up FishingBoat F00000. FishingBoat F00000 locked.
+Marco locking up LifeBoat L00000. LifeBoat L00000 locked.
+All vehicles are locked.
+
+Garage menu. Current time is 1900!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+1
+Marco unlocking Bike B00000. Bike B00000 unlocked.
+Marco unlocking Trike T00000. Trike T00000 unlocked.
+Marco unlocking Sidecar S00000. Sidecar S00000 unlocked.
+Marco unlocking Hatchback H00000. Hatchback H00000 unlocked.
+Marco unlocking SUV S50000. SUV S50000 unlocked.
+Marco unlocking Wagon W00000. Wagon W00000 unlocked.
+Marco unlocking Convertible C00000. Convertible C00000 unlocked.
+Marco unlocking Pickup P00000. Pickup P00000 unlocked.
+Marco unlocking Delivery D00000. Delivery D00000 unlocked.
+Marco unlocking Monster M00000. Monster M00000 unlocked.
+Marco unlocking FishingBoat F00000. FishingBoat F00000 unlocked.
+Marco unlocking LifeBoat L00000. LifeBoat L00000 unlocked.
+All vehicles are unlocked.
+
+Garage menu. Current time is 2000!
+1. Unlock all vehicles
+2. Wash all vehicles
+3. Tune-up all vehicles
+4. Test Drive all vehicles
+5. Lock all vehicles
+9. Leave for the day
+Press your selection:
+2
+Marco washing Bike B00000. Bike B00000 Soaped. Bike B00000 Scrubbed. Bike B00000 Rinsed. Bike B00000 Dried. Bike B00000 shines.
+Marco washing Trike T00000. Trike T00000 Soaped. Trike T00000 Scrubbed. Trike T00000 Rinsed. Trike T00000 Dried. Trike T00000 sparkles.
+Marco washing Sidecar S00000. Sidecar S00000 Soaped. Sidecar S00000 Scrubbed. Sidecar S00000 Rinsed. Sidecar S00000 Dried. Sidecar S00000 shines.
+Marco washing Hatchback H00000. Hatchback H00000 Soaped. Hatchback H00000 Scrubbed. Hatchback H00000 Rinsed. Hatchback H00000 Dried. Hatchback H00000 shines.
+Marco washing SUV S50000. SUV S50000 Soaped. SUV S50000 Scrubbed. SUV S50000 Rinsed. SUV S50000 Dried. SUV S50000 shines.
+Marco washing Wagon W00000. Wagon W00000 Soaped. Wagon W00000 Scrubbed. Wagon W00000 Rinsed. Wagon W00000 Dried. Wagon W00000 shines.
+Marco washing Convertible C00000. Convertible C00000 Soaped. Convertible C00000 Scrubbed. Convertible C00000 Rinsed. Convertible C00000 Dried. Convertible C00000 Waxed. Convertible C00000 Detailed. Convertible C00000 Detailed. Convertible C00000 shines.
+Marco washing Pickup P00000. Pickup P00000 Soaped. Pickup P00000 Scrubbed. Pickup P00000 Rinsed. Pickup P00000 Dried. Pickup P00000 shines.
+Marco washing Delivery D00000. Delivery D00000 Soaped. Delivery D00000 Scrubbed. Delivery D00000 Rinsed. Delivery D00000 Dried. Delivery D00000 sparkles.
+Marco washing Monster M00000. Monster M00000 Soaped. Monster M00000 Scrubbed. Monster M00000 Rinsed. Monster M00000 Dried. Monster M00000 Waxed. Monster M00000 Waxed. Monster M00000 Polished. Monster M00000 Detailed. Monster M00000 sparkles.
+Marco washing FishingBoat F00000. FishingBoat F00000 Soaped. FishingBoat F00000 Scrubbed. FishingBoat F00000 Rinsed. FishingBoat F00000 Dried. FishingBoat F00000 shines.
+Marco washing LifeBoat L00000. LifeBoat L00000 Soaped. LifeBoat L00000 Scrubbed. LifeBoat L00000 Rinsed. LifeBoat L00000 Dried. LifeBoat L00000 shines.
+All vehicles are washed.
+
+Closing time. Good day!
+
+Process finished with exit code 0

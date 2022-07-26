@@ -1,0 +1,2694 @@
+/Users/manan/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=56654:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/manan/Downloads/OOAD/OOADProjects/OOADProjectSU21/Project3/out/production/Project3 Garage
+Enter number of days : 10
+Mechanic Marco arrives at Garage on Day 1.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Marco unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Marco unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Marco unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Marco unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Marco unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Marco unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Marco unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Marco unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Marco unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Marco unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Marco unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Marco unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Marco unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Marco unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Marco unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Marco unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Marco unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Marco unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Marco unlocks Monster M00000.
+Monster M00000 unlocked.
+Mechanic Marco unlocks Monster M00001.
+Monster M00001 unlocked.
+Mechanic Marco unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Marco unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Marco unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Marco unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Marco washes Bike B00000.
+Bike B00000 shines.
+Mechanic Marco washes Bike B00001.
+Bike B00001 shines.
+Mechanic Marco washes Trike T00000.
+Trike T00000 shines.
+Mechanic Marco washes Trike T00001.
+Trike T00001 sparkles.
+Mechanic Marco washes Sidecar S00000.
+Sidecar S00000 shines.
+Mechanic Marco washes Sidecar S00001.
+Sidecar S00001 sparkles.
+Mechanic Marco washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Marco washes Hatchback H00001.
+Hatchback H00001 shines.
+Mechanic Marco washes SUV S50000.
+SUV S50000 shines.
+Mechanic Marco washes SUV S50001.
+SUV S50001 shines.
+Mechanic Marco washes Wagon W00000.
+Wagon W00000 shines.
+Mechanic Marco washes Wagon W00001.
+Wagon W00001 shines.
+Mechanic Marco washes Convertible C00000.
+Convertible C00000 sparkles.
+Mechanic Marco washes Convertible C00001.
+Convertible C00001 sparkles.
+Mechanic Marco washes Pickup P00000.
+Pickup P00000 shines.
+Mechanic Marco washes Pickup P00001.
+Pickup P00001 shines.
+Mechanic Marco washes Delivery D00000.
+Delivery D00000 sparkles.
+Mechanic Marco washes Delivery D00001.
+Delivery D00001 sparkles.
+Mechanic Marco washes Monster M00000.
+Monster M00000 sparkles.
+Mechanic Marco washes Monster M00001.
+Monster M00001 shines.
+Mechanic Marco washes FishingBoat F00000.
+FishingBoat F00000 shines.
+Mechanic Marco washes FishingBoat F00001.
+FishingBoat F00001 shines.
+Mechanic Marco washes LifeBoat L00000.
+LifeBoat L00000 shines.
+Mechanic Marco washes LifeBoat L00001.
+LifeBoat L00001 shines.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Marco tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Marco tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Marco tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Marco tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Marco tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Marco tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Marco tunes up Hatchback H00000.
+Hatchback H00000 sputters.
+Mechanic Marco tunes up Hatchback H00001.
+Hatchback H00001 runs.
+Mechanic Marco tunes up SUV S50000.
+SUV S50000 runs.
+Mechanic Marco tunes up SUV S50001.
+SUV S50001 runs.
+Mechanic Marco tunes up Wagon W00000.
+Wagon W00000 runs.
+Mechanic Marco tunes up Wagon W00001.
+Wagon W00001 runs.
+Mechanic Marco tunes up Convertible C00000.
+Convertible C00000 runs.
+Mechanic Marco tunes up Convertible C00001.
+Convertible C00001 runs.
+Mechanic Marco tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Marco tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Marco tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Marco tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Marco tunes up Monster M00000.
+Monster M00000 runs.
+Mechanic Marco tunes up Monster M00001.
+Monster M00001 runs.
+Mechanic Marco tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Marco tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Marco tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Marco tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Marco test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Marco test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Marco test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Marco test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Marco test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Marco test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Marco test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Marco test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Marco test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Marco test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Marco test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Marco test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Marco test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Marco test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Marco test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Marco test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Marco test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Marco test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Marco test drives Monster M00000.
+Monster M00000 drives.
+Mechanic Marco test drives Monster M00001.
+Monster M00001 drives.
+Mechanic Marco test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Marco test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Marco test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Marco test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Marco locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Marco locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Marco locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Marco locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Marco locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Marco locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Marco locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Marco locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Marco locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Marco locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Marco locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Marco locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Marco locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Marco locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Marco locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Marco locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Marco locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Marco locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Marco locks up Monster M00000.
+Monster M00000 locked.
+Mechanic Marco locks up Monster M00001.
+Monster M00001 locked.
+Mechanic Marco locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Marco locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Marco locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Marco locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 2000.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic Marco leaves at Garage on Day 1.
+
+Mechanic Marco arrives at Garage on Day 2.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Marco unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Marco unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Marco unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Marco unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Marco unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Marco unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Marco unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Marco unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Marco unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Marco unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Marco unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Marco unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Marco unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Marco unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Marco unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Marco unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Marco unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Marco unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Marco unlocks Monster M00000.
+Monster M00000 unlocked.
+Mechanic Marco unlocks Monster M00001.
+Monster M00001 unlocked.
+Mechanic Marco unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Marco unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Marco unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Marco unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Marco washes Bike B00000.
+Bike B00000 sparkles.
+Mechanic Marco washes Bike B00001.
+Bike B00001 shines.
+Mechanic Marco washes Trike T00000.
+Trike T00000 shines.
+Mechanic Marco washes Trike T00001.
+Trike T00001 shines.
+Mechanic Marco washes Sidecar S00000.
+Sidecar S00000 sparkles.
+Mechanic Marco washes Sidecar S00001.
+Sidecar S00001 shines.
+Mechanic Marco washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Marco washes Hatchback H00001.
+Hatchback H00001 shines.
+Mechanic Marco washes SUV S50000.
+SUV S50000 shines.
+Mechanic Marco washes SUV S50001.
+SUV S50001 sparkles.
+Mechanic Marco washes Wagon W00000.
+Wagon W00000 shines.
+Mechanic Marco washes Wagon W00001.
+Wagon W00001 shines.
+Mechanic Marco washes Convertible C00000.
+Convertible C00000 sparkles.
+Mechanic Marco washes Convertible C00001.
+Convertible C00001 sparkles.
+Mechanic Marco washes Pickup P00000.
+Pickup P00000 shines.
+Mechanic Marco washes Pickup P00001.
+Pickup P00001 shines.
+Mechanic Marco washes Delivery D00000.
+Delivery D00000 shines.
+Mechanic Marco washes Delivery D00001.
+Delivery D00001 sparkles.
+Mechanic Marco washes Monster M00000.
+Monster M00000 sparkles.
+Mechanic Marco washes Monster M00001.
+Monster M00001 shines.
+Mechanic Marco washes FishingBoat F00000.
+FishingBoat F00000 shines.
+Mechanic Marco washes FishingBoat F00001.
+FishingBoat F00001 shines.
+Mechanic Marco washes LifeBoat L00000.
+LifeBoat L00000 shines.
+Mechanic Marco washes LifeBoat L00001.
+LifeBoat L00001 shines.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Marco tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Marco tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Marco tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Marco tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Marco tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Marco tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Marco tunes up Hatchback H00000.
+Hatchback H00000 runs.
+Mechanic Marco tunes up Hatchback H00001.
+Hatchback H00001 runs.
+Mechanic Marco tunes up SUV S50000.
+SUV S50000 runs.
+Mechanic Marco tunes up SUV S50001.
+SUV S50001 runs.
+Mechanic Marco tunes up Wagon W00000.
+Wagon W00000 runs.
+Mechanic Marco tunes up Wagon W00001.
+Wagon W00001 runs.
+Mechanic Marco tunes up Convertible C00000.
+Convertible C00000 runs.
+Mechanic Marco tunes up Convertible C00001.
+Convertible C00001 runs.
+Mechanic Marco tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Marco tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Marco tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Marco tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Marco tunes up Monster M00000.
+Monster M00000 runs.
+Mechanic Marco tunes up Monster M00001.
+Monster M00001 runs.
+Mechanic Marco tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Marco tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Marco tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Marco tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Marco test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Marco test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Marco test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Marco test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Marco test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Marco test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Marco test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Marco test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Marco test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Marco test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Marco test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Marco test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Marco test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Marco test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Marco test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Marco test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Marco test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Marco test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Marco test drives Monster M00000.
+Monster M00000 drives.
+Mechanic Marco test drives Monster M00001.
+Monster M00001 drives.
+Mechanic Marco test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Marco test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Marco test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Marco test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Marco locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Marco locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Marco locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Marco locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Marco locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Marco locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Marco locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Marco locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Marco locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Marco locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Marco locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Marco locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Marco locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Marco locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Marco locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Marco locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Marco locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Marco locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Marco locks up Monster M00000.
+Monster M00000 locked.
+Mechanic Marco locks up Monster M00001.
+Monster M00001 locked.
+Mechanic Marco locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Marco locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Marco locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Marco locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 2000.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic Marco leaves at Garage on Day 2.
+
+Mechanic Marco arrives at Garage on Day 3.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Marco unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Marco unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Marco unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Marco unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Marco unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Marco unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Marco unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Marco unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Marco unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Marco unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Marco unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Marco unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Marco unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Marco unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Marco unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Marco unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Marco unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Marco unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Marco unlocks Monster M00000.
+Monster M00000 unlocked.
+Mechanic Marco unlocks Monster M00001.
+Monster M00001 unlocked.
+Mechanic Marco unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Marco unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Marco unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Marco unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Marco washes Bike B00000.
+Bike B00000 sparkles.
+Mechanic Marco washes Bike B00001.
+Bike B00001 shines.
+Mechanic Marco washes Trike T00000.
+Trike T00000 shines.
+Mechanic Marco washes Trike T00001.
+Trike T00001 shines.
+Mechanic Marco washes Sidecar S00000.
+Sidecar S00000 shines.
+Mechanic Marco washes Sidecar S00001.
+Sidecar S00001 shines.
+Mechanic Marco washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Marco washes Hatchback H00001.
+Hatchback H00001 sparkles.
+Mechanic Marco washes SUV S50000.
+SUV S50000 shines.
+Mechanic Marco washes SUV S50001.
+SUV S50001 shines.
+Mechanic Marco washes Wagon W00000.
+Wagon W00000 sparkles.
+Mechanic Marco washes Wagon W00001.
+Wagon W00001 shines.
+Mechanic Marco washes Convertible C00000.
+Convertible C00000 shines.
+Mechanic Marco washes Convertible C00001.
+Convertible C00001 shines.
+Mechanic Marco washes Pickup P00000.
+Pickup P00000 shines.
+Mechanic Marco washes Pickup P00001.
+Pickup P00001 shines.
+Mechanic Marco washes Delivery D00000.
+Delivery D00000 sparkles.
+Mechanic Marco washes Delivery D00001.
+Delivery D00001 shines.
+Mechanic Marco washes Monster M00000.
+Monster M00000 sparkles.
+Mechanic Marco washes Monster M00001.
+Monster M00001 shines.
+Mechanic Marco washes FishingBoat F00000.
+FishingBoat F00000 shines.
+Mechanic Marco washes FishingBoat F00001.
+FishingBoat F00001 sparkles.
+Mechanic Marco washes LifeBoat L00000.
+LifeBoat L00000 shines.
+Mechanic Marco washes LifeBoat L00001.
+LifeBoat L00001 shines.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Marco tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Marco tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Marco tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Marco tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Marco tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Marco tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Marco tunes up Hatchback H00000.
+Hatchback H00000 runs.
+Mechanic Marco tunes up Hatchback H00001.
+Hatchback H00001 sputters.
+Mechanic Marco tunes up SUV S50000.
+SUV S50000 sputters.
+Mechanic Marco tunes up SUV S50001.
+SUV S50001 runs.
+Mechanic Marco tunes up Wagon W00000.
+Wagon W00000 runs.
+Mechanic Marco tunes up Wagon W00001.
+Wagon W00001 runs.
+Mechanic Marco tunes up Convertible C00000.
+Convertible C00000 sputters.
+Mechanic Marco tunes up Convertible C00001.
+Convertible C00001 runs.
+Mechanic Marco tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Marco tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Marco tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Marco tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Marco tunes up Monster M00000.
+Monster M00000 runs.
+Mechanic Marco tunes up Monster M00001.
+Monster M00001 runs.
+Mechanic Marco tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Marco tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Marco tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Marco tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Marco test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Marco test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Marco test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Marco test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Marco test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Marco test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Marco test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Marco test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Marco test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Marco test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Marco test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Marco test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Marco test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Marco test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Marco test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Marco test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Marco test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Marco test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Marco test drives Monster M00000.
+Monster M00000 crashes.
+Mechanic Marco leaves at Garage.
+Mechanic Paula arrives at Garage.
+Mechanic Paula test drives Monster M00001.
+Monster M00001 drives.
+Mechanic Paula test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Paula test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Paula test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Paula test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1800.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Paula locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Paula locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Paula locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Paula locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Paula locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Paula locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Paula locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Paula locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Paula locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Paula locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Paula locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Paula locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Paula locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Paula locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Paula locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Paula locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Paula locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Paula locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Paula locks up Monster M00001.
+Monster M00001 locked.
+Mechanic Paula locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Paula locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Paula locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Paula locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic: The current time is 2000.
+Mechanic Paula leaves at Garage on Day 3.
+
+Mechanic Paula arrives at Garage on Day 4.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Paula unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Paula unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Paula unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Paula unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Paula unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Paula unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Paula unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Paula unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Paula unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Paula unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Paula unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Paula unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Paula unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Paula unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Paula unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Paula unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Paula unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Paula unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Paula unlocks Monster M00001.
+Monster M00001 unlocked.
+Mechanic Paula unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Paula unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Paula unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Paula unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Paula washes Bike B00000.
+Bike B00000 shines.
+Mechanic Paula washes Bike B00001.
+Bike B00001 shines.
+Mechanic Paula washes Trike T00000.
+Trike T00000 sparkles.
+Mechanic Paula washes Trike T00001.
+Trike T00001 shines.
+Mechanic Paula washes Sidecar S00000.
+Sidecar S00000 sparkles.
+Mechanic Paula washes Sidecar S00001.
+Sidecar S00001 shines.
+Mechanic Paula washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Paula washes Hatchback H00001.
+Hatchback H00001 shines.
+Mechanic Paula washes SUV S50000.
+SUV S50000 sparkles.
+Mechanic Paula washes SUV S50001.
+SUV S50001 shines.
+Mechanic Paula washes Wagon W00000.
+Wagon W00000 shines.
+Mechanic Paula washes Wagon W00001.
+Wagon W00001 sparkles.
+Mechanic Paula washes Convertible C00000.
+Convertible C00000 shines.
+Mechanic Paula washes Convertible C00001.
+Convertible C00001 shines.
+Mechanic Paula washes Pickup P00000.
+Pickup P00000 shines.
+Mechanic Paula washes Pickup P00001.
+Pickup P00001 sparkles.
+Mechanic Paula washes Delivery D00000.
+Delivery D00000 shines.
+Mechanic Paula washes Delivery D00001.
+Delivery D00001 shines.
+Mechanic Paula washes Monster M00001.
+Monster M00001 shines.
+Mechanic Paula washes FishingBoat F00000.
+FishingBoat F00000 shines.
+Mechanic Paula washes FishingBoat F00001.
+FishingBoat F00001 shines.
+Mechanic Paula washes LifeBoat L00000.
+LifeBoat L00000 shines.
+Mechanic Paula washes LifeBoat L00001.
+LifeBoat L00001 shines.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Paula tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Paula tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Paula tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Paula tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Paula tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Paula tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Paula tunes up Hatchback H00000.
+Hatchback H00000 runs.
+Mechanic Paula tunes up Hatchback H00001.
+Hatchback H00001 runs.
+Mechanic Paula tunes up SUV S50000.
+SUV S50000 sputters.
+Mechanic Paula tunes up SUV S50001.
+SUV S50001 sputters.
+Mechanic Paula tunes up Wagon W00000.
+Wagon W00000 runs.
+Mechanic Paula tunes up Wagon W00001.
+Wagon W00001 sputters.
+Mechanic Paula tunes up Convertible C00000.
+Convertible C00000 runs.
+Mechanic Paula tunes up Convertible C00001.
+Convertible C00001 runs.
+Mechanic Paula tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Paula tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Paula tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Paula tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Paula tunes up Monster M00001.
+Monster M00001 runs.
+Mechanic Paula tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Paula tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Paula tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Paula tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Paula test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Paula test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Paula test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Paula test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Paula test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Paula test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Paula test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Paula test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Paula test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Paula test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Paula test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Paula test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Paula test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Paula test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Paula test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Paula test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Paula test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Paula test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Paula test drives Monster M00001.
+Monster M00001 drives.
+Mechanic Paula test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Paula test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Paula test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Paula test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Paula locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Paula locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Paula locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Paula locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Paula locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Paula locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Paula locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Paula locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Paula locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Paula locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Paula locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Paula locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Paula locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Paula locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Paula locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Paula locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Paula locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Paula locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Paula locks up Monster M00001.
+Monster M00001 locked.
+Mechanic Paula locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Paula locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Paula locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Paula locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 2000.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic Paula leaves at Garage on Day 4.
+
+Mechanic Paula arrives at Garage on Day 5.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Paula unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Paula unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Paula unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Paula unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Paula unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Paula unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Paula unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Paula unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Paula unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Paula unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Paula unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Paula unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Paula unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Paula unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Paula unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Paula unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Paula unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Paula unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Paula unlocks Monster M00001.
+Monster M00001 unlocked.
+Mechanic Paula unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Paula unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Paula unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Paula unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Paula washes Bike B00000.
+Bike B00000 shines.
+Mechanic Paula washes Bike B00001.
+Bike B00001 sparkles.
+Mechanic Paula washes Trike T00000.
+Trike T00000 shines.
+Mechanic Paula washes Trike T00001.
+Trike T00001 sparkles.
+Mechanic Paula washes Sidecar S00000.
+Sidecar S00000 shines.
+Mechanic Paula washes Sidecar S00001.
+Sidecar S00001 shines.
+Mechanic Paula washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Paula washes Hatchback H00001.
+Hatchback H00001 shines.
+Mechanic Paula washes SUV S50000.
+SUV S50000 sparkles.
+Mechanic Paula washes SUV S50001.
+SUV S50001 shines.
+Mechanic Paula washes Wagon W00000.
+Wagon W00000 shines.
+Mechanic Paula washes Wagon W00001.
+Wagon W00001 sparkles.
+Mechanic Paula washes Convertible C00000.
+Convertible C00000 shines.
+Mechanic Paula washes Convertible C00001.
+Convertible C00001 shines.
+Mechanic Paula washes Pickup P00000.
+Pickup P00000 sparkles.
+Mechanic Paula washes Pickup P00001.
+Pickup P00001 shines.
+Mechanic Paula washes Delivery D00000.
+Delivery D00000 shines.
+Mechanic Paula washes Delivery D00001.
+Delivery D00001 shines.
+Mechanic Paula washes Monster M00001.
+Monster M00001 shines.
+Mechanic Paula washes FishingBoat F00000.
+FishingBoat F00000 shines.
+Mechanic Paula washes FishingBoat F00001.
+FishingBoat F00001 shines.
+Mechanic Paula washes LifeBoat L00000.
+LifeBoat L00000 shines.
+Mechanic Paula washes LifeBoat L00001.
+LifeBoat L00001 shines.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Paula tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Paula tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Paula tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Paula tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Paula tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Paula tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Paula tunes up Hatchback H00000.
+Hatchback H00000 runs.
+Mechanic Paula tunes up Hatchback H00001.
+Hatchback H00001 runs.
+Mechanic Paula tunes up SUV S50000.
+SUV S50000 runs.
+Mechanic Paula tunes up SUV S50001.
+SUV S50001 runs.
+Mechanic Paula tunes up Wagon W00000.
+Wagon W00000 sputters.
+Mechanic Paula tunes up Wagon W00001.
+Wagon W00001 runs.
+Mechanic Paula tunes up Convertible C00000.
+Convertible C00000 runs.
+Mechanic Paula tunes up Convertible C00001.
+Convertible C00001 runs.
+Mechanic Paula tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Paula tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Paula tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Paula tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Paula tunes up Monster M00001.
+Monster M00001 runs.
+Mechanic Paula tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Paula tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Paula tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Paula tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Paula test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Paula test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Paula test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Paula test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Paula test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Paula test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Paula test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Paula test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Paula test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Paula test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Paula test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Paula test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Paula test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Paula test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Paula test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Paula test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Paula test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Paula test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Paula test drives Monster M00001.
+Monster M00001 drives.
+Mechanic Paula test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Paula test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Paula test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Paula test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Paula locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Paula locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Paula locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Paula locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Paula locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Paula locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Paula locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Paula locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Paula locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Paula locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Paula locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Paula locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Paula locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Paula locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Paula locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Paula locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Paula locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Paula locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Paula locks up Monster M00001.
+Monster M00001 locked.
+Mechanic Paula locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Paula locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Paula locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Paula locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 2000.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic Paula leaves at Garage on Day 5.
+
+Mechanic Paula arrives at Garage on Day 6.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Paula unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Paula unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Paula unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Paula unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Paula unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Paula unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Paula unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Paula unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Paula unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Paula unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Paula unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Paula unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Paula unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Paula unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Paula unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Paula unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Paula unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Paula unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Paula unlocks Monster M00001.
+Monster M00001 unlocked.
+Mechanic Paula unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Paula unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Paula unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Paula unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Paula washes Bike B00000.
+Bike B00000 shines.
+Mechanic Paula washes Bike B00001.
+Bike B00001 shines.
+Mechanic Paula washes Trike T00000.
+Trike T00000 shines.
+Mechanic Paula washes Trike T00001.
+Trike T00001 shines.
+Mechanic Paula washes Sidecar S00000.
+Sidecar S00000 sparkles.
+Mechanic Paula washes Sidecar S00001.
+Sidecar S00001 shines.
+Mechanic Paula washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Paula washes Hatchback H00001.
+Hatchback H00001 sparkles.
+Mechanic Paula washes SUV S50000.
+SUV S50000 shines.
+Mechanic Paula washes SUV S50001.
+SUV S50001 shines.
+Mechanic Paula washes Wagon W00000.
+Wagon W00000 sparkles.
+Mechanic Paula washes Wagon W00001.
+Wagon W00001 sparkles.
+Mechanic Paula washes Convertible C00000.
+Convertible C00000 shines.
+Mechanic Paula washes Convertible C00001.
+Convertible C00001 shines.
+Mechanic Paula washes Pickup P00000.
+Pickup P00000 sparkles.
+Mechanic Paula washes Pickup P00001.
+Pickup P00001 shines.
+Mechanic Paula washes Delivery D00000.
+Delivery D00000 sparkles.
+Mechanic Paula washes Delivery D00001.
+Delivery D00001 sparkles.
+Mechanic Paula washes Monster M00001.
+Monster M00001 sparkles.
+Mechanic Paula washes FishingBoat F00000.
+FishingBoat F00000 shines.
+Mechanic Paula washes FishingBoat F00001.
+FishingBoat F00001 sparkles.
+Mechanic Paula washes LifeBoat L00000.
+LifeBoat L00000 shines.
+Mechanic Paula washes LifeBoat L00001.
+LifeBoat L00001 shines.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Paula tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Paula tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Paula tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Paula tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Paula tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Paula tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Paula tunes up Hatchback H00000.
+Hatchback H00000 sputters.
+Mechanic Paula tunes up Hatchback H00001.
+Hatchback H00001 sputters.
+Mechanic Paula tunes up SUV S50000.
+SUV S50000 runs.
+Mechanic Paula tunes up SUV S50001.
+SUV S50001 runs.
+Mechanic Paula tunes up Wagon W00000.
+Wagon W00000 runs.
+Mechanic Paula tunes up Wagon W00001.
+Wagon W00001 runs.
+Mechanic Paula tunes up Convertible C00000.
+Convertible C00000 runs.
+Mechanic Paula tunes up Convertible C00001.
+Convertible C00001 runs.
+Mechanic Paula tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Paula tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Paula tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Paula tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Paula tunes up Monster M00001.
+Monster M00001 runs.
+Mechanic Paula tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Paula tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Paula tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Paula tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Paula test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Paula test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Paula test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Paula test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Paula test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Paula test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Paula test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Paula test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Paula test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Paula test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Paula test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Paula test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Paula test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Paula test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Paula test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Paula test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Paula test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Paula test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Paula test drives Monster M00001.
+Monster M00001 drives.
+Mechanic Paula test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Paula test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Paula test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Paula test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Paula locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Paula locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Paula locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Paula locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Paula locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Paula locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Paula locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Paula locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Paula locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Paula locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Paula locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Paula locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Paula locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Paula locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Paula locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Paula locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Paula locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Paula locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Paula locks up Monster M00001.
+Monster M00001 locked.
+Mechanic Paula locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Paula locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Paula locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Paula locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 2000.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic Paula leaves at Garage on Day 6.
+
+Mechanic Paula arrives at Garage on Day 7.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Paula unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Paula unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Paula unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Paula unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Paula unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Paula unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Paula unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Paula unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Paula unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Paula unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Paula unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Paula unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Paula unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Paula unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Paula unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Paula unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Paula unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Paula unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Paula unlocks Monster M00001.
+Monster M00001 unlocked.
+Mechanic Paula unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Paula unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Paula unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Paula unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Paula washes Bike B00000.
+Bike B00000 shines.
+Mechanic Paula washes Bike B00001.
+Bike B00001 shines.
+Mechanic Paula washes Trike T00000.
+Trike T00000 shines.
+Mechanic Paula washes Trike T00001.
+Trike T00001 sparkles.
+Mechanic Paula washes Sidecar S00000.
+Sidecar S00000 shines.
+Mechanic Paula washes Sidecar S00001.
+Sidecar S00001 shines.
+Mechanic Paula washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Paula washes Hatchback H00001.
+Hatchback H00001 sparkles.
+Mechanic Paula washes SUV S50000.
+SUV S50000 shines.
+Mechanic Paula washes SUV S50001.
+SUV S50001 sparkles.
+Mechanic Paula washes Wagon W00000.
+Wagon W00000 shines.
+Mechanic Paula washes Wagon W00001.
+Wagon W00001 shines.
+Mechanic Paula washes Convertible C00000.
+Convertible C00000 shines.
+Mechanic Paula washes Convertible C00001.
+Convertible C00001 sparkles.
+Mechanic Paula washes Pickup P00000.
+Pickup P00000 shines.
+Mechanic Paula washes Pickup P00001.
+Pickup P00001 shines.
+Mechanic Paula washes Delivery D00000.
+Delivery D00000 sparkles.
+Mechanic Paula washes Delivery D00001.
+Delivery D00001 shines.
+Mechanic Paula washes Monster M00001.
+Monster M00001 shines.
+Mechanic Paula washes FishingBoat F00000.
+FishingBoat F00000 shines.
+Mechanic Paula washes FishingBoat F00001.
+FishingBoat F00001 shines.
+Mechanic Paula washes LifeBoat L00000.
+LifeBoat L00000 sparkles.
+Mechanic Paula washes LifeBoat L00001.
+LifeBoat L00001 sparkles.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Paula tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Paula tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Paula tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Paula tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Paula tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Paula tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Paula tunes up Hatchback H00000.
+Hatchback H00000 runs.
+Mechanic Paula tunes up Hatchback H00001.
+Hatchback H00001 runs.
+Mechanic Paula tunes up SUV S50000.
+SUV S50000 runs.
+Mechanic Paula tunes up SUV S50001.
+SUV S50001 runs.
+Mechanic Paula tunes up Wagon W00000.
+Wagon W00000 runs.
+Mechanic Paula tunes up Wagon W00001.
+Wagon W00001 runs.
+Mechanic Paula tunes up Convertible C00000.
+Convertible C00000 runs.
+Mechanic Paula tunes up Convertible C00001.
+Convertible C00001 sputters.
+Mechanic Paula tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Paula tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Paula tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Paula tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Paula tunes up Monster M00001.
+Monster M00001 runs.
+Mechanic Paula tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Paula tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Paula tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Paula tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Paula test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Paula test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Paula test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Paula test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Paula test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Paula test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Paula test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Paula test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Paula test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Paula test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Paula test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Paula test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Paula test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Paula test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Paula test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Paula test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Paula test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Paula test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Paula test drives Monster M00001.
+Monster M00001 crashes.
+Mechanic Paula leaves at Garage.
+Mechanic Robert arrives at Garage.
+Mechanic Robert test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Robert test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Robert test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Robert test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1800.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Robert locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Robert locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Robert locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Robert locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Robert locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Robert locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Robert locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Robert locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Robert locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Robert locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Robert locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Robert locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Robert locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Robert locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Robert locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Robert locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Robert locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Robert locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Robert locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Robert locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Robert locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Robert locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic: The current time is 2000.
+Mechanic Robert leaves at Garage on Day 7.
+
+Mechanic Robert arrives at Garage on Day 8.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Robert unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Robert unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Robert unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Robert unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Robert unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Robert unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Robert unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Robert unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Robert unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Robert unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Robert unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Robert unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Robert unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Robert unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Robert unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Robert unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Robert unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Robert unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Robert unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Robert unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Robert unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Robert unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Robert washes Bike B00000.
+Bike B00000 shines.
+Mechanic Robert washes Bike B00001.
+Bike B00001 shines.
+Mechanic Robert washes Trike T00000.
+Trike T00000 shines.
+Mechanic Robert washes Trike T00001.
+Trike T00001 sparkles.
+Mechanic Robert washes Sidecar S00000.
+Sidecar S00000 shines.
+Mechanic Robert washes Sidecar S00001.
+Sidecar S00001 shines.
+Mechanic Robert washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Robert washes Hatchback H00001.
+Hatchback H00001 sparkles.
+Mechanic Robert washes SUV S50000.
+SUV S50000 shines.
+Mechanic Robert washes SUV S50001.
+SUV S50001 shines.
+Mechanic Robert washes Wagon W00000.
+Wagon W00000 shines.
+Mechanic Robert washes Wagon W00001.
+Wagon W00001 shines.
+Mechanic Robert washes Convertible C00000.
+Convertible C00000 shines.
+Mechanic Robert washes Convertible C00001.
+Convertible C00001 shines.
+Mechanic Robert washes Pickup P00000.
+Pickup P00000 shines.
+Mechanic Robert washes Pickup P00001.
+Pickup P00001 shines.
+Mechanic Robert washes Delivery D00000.
+Delivery D00000 shines.
+Mechanic Robert washes Delivery D00001.
+Delivery D00001 shines.
+Mechanic Robert washes FishingBoat F00000.
+FishingBoat F00000 shines.
+Mechanic Robert washes FishingBoat F00001.
+FishingBoat F00001 sparkles.
+Mechanic Robert washes LifeBoat L00000.
+LifeBoat L00000 sparkles.
+Mechanic Robert washes LifeBoat L00001.
+LifeBoat L00001 shines.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Robert tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Robert tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Robert tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Robert tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Robert tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Robert tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Robert tunes up Hatchback H00000.
+Hatchback H00000 runs.
+Mechanic Robert tunes up Hatchback H00001.
+Hatchback H00001 sputters.
+Mechanic Robert tunes up SUV S50000.
+SUV S50000 sputters.
+Mechanic Robert tunes up SUV S50001.
+SUV S50001 runs.
+Mechanic Robert tunes up Wagon W00000.
+Wagon W00000 runs.
+Mechanic Robert tunes up Wagon W00001.
+Wagon W00001 runs.
+Mechanic Robert tunes up Convertible C00000.
+Convertible C00000 sputters.
+Mechanic Robert tunes up Convertible C00001.
+Convertible C00001 runs.
+Mechanic Robert tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Robert tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Robert tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Robert tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Robert tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Robert tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Robert tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Robert tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Robert test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Robert test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Robert test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Robert test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Robert test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Robert test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Robert test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Robert test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Robert test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Robert test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Robert test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Robert test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Robert test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Robert test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Robert test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Robert test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Robert test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Robert test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Robert test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Robert test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Robert test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Robert test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Robert locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Robert locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Robert locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Robert locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Robert locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Robert locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Robert locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Robert locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Robert locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Robert locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Robert locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Robert locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Robert locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Robert locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Robert locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Robert locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Robert locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Robert locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Robert locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Robert locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Robert locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Robert locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 2000.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic Robert leaves at Garage on Day 8.
+
+Mechanic Robert arrives at Garage on Day 9.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Robert unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Robert unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Robert unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Robert unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Robert unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Robert unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Robert unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Robert unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Robert unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Robert unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Robert unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Robert unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Robert unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Robert unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Robert unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Robert unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Robert unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Robert unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Robert unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Robert unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Robert unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Robert unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Robert washes Bike B00000.
+Bike B00000 shines.
+Mechanic Robert washes Bike B00001.
+Bike B00001 shines.
+Mechanic Robert washes Trike T00000.
+Trike T00000 shines.
+Mechanic Robert washes Trike T00001.
+Trike T00001 sparkles.
+Mechanic Robert washes Sidecar S00000.
+Sidecar S00000 sparkles.
+Mechanic Robert washes Sidecar S00001.
+Sidecar S00001 shines.
+Mechanic Robert washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Robert washes Hatchback H00001.
+Hatchback H00001 shines.
+Mechanic Robert washes SUV S50000.
+SUV S50000 sparkles.
+Mechanic Robert washes SUV S50001.
+SUV S50001 shines.
+Mechanic Robert washes Wagon W00000.
+Wagon W00000 shines.
+Mechanic Robert washes Wagon W00001.
+Wagon W00001 shines.
+Mechanic Robert washes Convertible C00000.
+Convertible C00000 sparkles.
+Mechanic Robert washes Convertible C00001.
+Convertible C00001 shines.
+Mechanic Robert washes Pickup P00000.
+Pickup P00000 shines.
+Mechanic Robert washes Pickup P00001.
+Pickup P00001 shines.
+Mechanic Robert washes Delivery D00000.
+Delivery D00000 shines.
+Mechanic Robert washes Delivery D00001.
+Delivery D00001 shines.
+Mechanic Robert washes FishingBoat F00000.
+FishingBoat F00000 shines.
+Mechanic Robert washes FishingBoat F00001.
+FishingBoat F00001 shines.
+Mechanic Robert washes LifeBoat L00000.
+LifeBoat L00000 sparkles.
+Mechanic Robert washes LifeBoat L00001.
+LifeBoat L00001 shines.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Robert tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Robert tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Robert tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Robert tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Robert tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Robert tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Robert tunes up Hatchback H00000.
+Hatchback H00000 runs.
+Mechanic Robert tunes up Hatchback H00001.
+Hatchback H00001 sputters.
+Mechanic Robert tunes up SUV S50000.
+SUV S50000 runs.
+Mechanic Robert tunes up SUV S50001.
+SUV S50001 runs.
+Mechanic Robert tunes up Wagon W00000.
+Wagon W00000 runs.
+Mechanic Robert tunes up Wagon W00001.
+Wagon W00001 sputters.
+Mechanic Robert tunes up Convertible C00000.
+Convertible C00000 runs.
+Mechanic Robert tunes up Convertible C00001.
+Convertible C00001 runs.
+Mechanic Robert tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Robert tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Robert tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Robert tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Robert tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Robert tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Robert tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Robert tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Robert test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Robert test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Robert test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Robert test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Robert test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Robert test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Robert test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Robert test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Robert test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Robert test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Robert test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Robert test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Robert test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Robert test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Robert test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Robert test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Robert test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Robert test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Robert test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Robert test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Robert test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Robert test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Robert locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Robert locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Robert locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Robert locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Robert locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Robert locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Robert locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Robert locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Robert locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Robert locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Robert locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Robert locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Robert locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Robert locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Robert locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Robert locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Robert locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Robert locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Robert locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Robert locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Robert locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Robert locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 2000.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic Robert leaves at Garage on Day 9.
+
+Mechanic Robert arrives at Garage on Day 10.
+Mechanic: The current time is 800.
+This is GarageAnnouncer Gary. The current time is 800.
+Mechanic: The current time is 900.
+This is GarageAnnouncer Gary. The current time is 900.
+Mechanic: The current time is 1000.
+This is GarageAnnouncer Gary. The current time is 1000.
+This is GarageAnnouncer Gary. The Mechanic is about to unlock the vehicles.
+Mechanic Robert unlocks Bike B00000.
+Bike B00000 unlocked.
+Mechanic Robert unlocks Bike B00001.
+Bike B00001 unlocked.
+Mechanic Robert unlocks Trike T00000.
+Trike T00000 unlocked.
+Mechanic Robert unlocks Trike T00001.
+Trike T00001 unlocked.
+Mechanic Robert unlocks Sidecar S00000.
+Sidecar S00000 unlocked.
+Mechanic Robert unlocks Sidecar S00001.
+Sidecar S00001 unlocked.
+Mechanic Robert unlocks Hatchback H00000.
+Hatchback H00000 unlocked.
+Mechanic Robert unlocks Hatchback H00001.
+Hatchback H00001 unlocked.
+Mechanic Robert unlocks SUV S50000.
+SUV S50000 unlocked.
+Mechanic Robert unlocks SUV S50001.
+SUV S50001 unlocked.
+Mechanic Robert unlocks Wagon W00000.
+Wagon W00000 unlocked.
+Mechanic Robert unlocks Wagon W00001.
+Wagon W00001 unlocked.
+Mechanic Robert unlocks Convertible C00000.
+Convertible C00000 unlocked.
+Mechanic Robert unlocks Convertible C00001.
+Convertible C00001 unlocked.
+Mechanic Robert unlocks Pickup P00000.
+Pickup P00000 unlocked.
+Mechanic Robert unlocks Pickup P00001.
+Pickup P00001 unlocked.
+Mechanic Robert unlocks Delivery D00000.
+Delivery D00000 unlocked.
+Mechanic Robert unlocks Delivery D00001.
+Delivery D00001 unlocked.
+Mechanic Robert unlocks FishingBoat F00000.
+FishingBoat F00000 unlocked.
+Mechanic Robert unlocks FishingBoat F00001.
+FishingBoat F00001 unlocked.
+Mechanic Robert unlocks LifeBoat L00000.
+LifeBoat L00000 unlocked.
+Mechanic Robert unlocks LifeBoat L00001.
+LifeBoat L00001 unlocked.
+
+Mechanic: The current time is 1100.
+This is GarageAnnouncer Gary. The current time is 1100.
+Mechanic: The current time is 1200.
+This is GarageAnnouncer Gary. The current time is 1200.
+This is GarageAnnouncer Gary. The Mechanic is about to wash the vehicles.
+Mechanic Robert washes Bike B00000.
+Bike B00000 shines.
+Mechanic Robert washes Bike B00001.
+Bike B00001 sparkles.
+Mechanic Robert washes Trike T00000.
+Trike T00000 shines.
+Mechanic Robert washes Trike T00001.
+Trike T00001 sparkles.
+Mechanic Robert washes Sidecar S00000.
+Sidecar S00000 sparkles.
+Mechanic Robert washes Sidecar S00001.
+Sidecar S00001 shines.
+Mechanic Robert washes Hatchback H00000.
+Hatchback H00000 shines.
+Mechanic Robert washes Hatchback H00001.
+Hatchback H00001 sparkles.
+Mechanic Robert washes SUV S50000.
+SUV S50000 shines.
+Mechanic Robert washes SUV S50001.
+SUV S50001 shines.
+Mechanic Robert washes Wagon W00000.
+Wagon W00000 sparkles.
+Mechanic Robert washes Wagon W00001.
+Wagon W00001 shines.
+Mechanic Robert washes Convertible C00000.
+Convertible C00000 sparkles.
+Mechanic Robert washes Convertible C00001.
+Convertible C00001 shines.
+Mechanic Robert washes Pickup P00000.
+Pickup P00000 shines.
+Mechanic Robert washes Pickup P00001.
+Pickup P00001 shines.
+Mechanic Robert washes Delivery D00000.
+Delivery D00000 shines.
+Mechanic Robert washes Delivery D00001.
+Delivery D00001 sparkles.
+Mechanic Robert washes FishingBoat F00000.
+FishingBoat F00000 sparkles.
+Mechanic Robert washes FishingBoat F00001.
+FishingBoat F00001 shines.
+Mechanic Robert washes LifeBoat L00000.
+LifeBoat L00000 shines.
+Mechanic Robert washes LifeBoat L00001.
+LifeBoat L00001 shines.
+
+Mechanic: The current time is 1300.
+This is GarageAnnouncer Gary. The current time is 1300.
+Mechanic: The current time is 1400.
+This is GarageAnnouncer Gary. The current time is 1400.
+This is GarageAnnouncer Gary. The Mechanic is about to tune up the vehicles.
+Mechanic Robert tunes up Bike B00000.
+Bike B00000 runs.
+Mechanic Robert tunes up Bike B00001.
+Bike B00001 runs.
+Mechanic Robert tunes up Trike T00000.
+Trike T00000 runs.
+Mechanic Robert tunes up Trike T00001.
+Trike T00001 runs.
+Mechanic Robert tunes up Sidecar S00000.
+Sidecar S00000 runs.
+Mechanic Robert tunes up Sidecar S00001.
+Sidecar S00001 runs.
+Mechanic Robert tunes up Hatchback H00000.
+Hatchback H00000 runs.
+Mechanic Robert tunes up Hatchback H00001.
+Hatchback H00001 runs.
+Mechanic Robert tunes up SUV S50000.
+SUV S50000 runs.
+Mechanic Robert tunes up SUV S50001.
+SUV S50001 runs.
+Mechanic Robert tunes up Wagon W00000.
+Wagon W00000 runs.
+Mechanic Robert tunes up Wagon W00001.
+Wagon W00001 sputters.
+Mechanic Robert tunes up Convertible C00000.
+Convertible C00000 runs.
+Mechanic Robert tunes up Convertible C00001.
+Convertible C00001 sputters.
+Mechanic Robert tunes up Pickup P00000.
+Pickup P00000 runs.
+Mechanic Robert tunes up Pickup P00001.
+Pickup P00001 runs.
+Mechanic Robert tunes up Delivery D00000.
+Delivery D00000 runs.
+Mechanic Robert tunes up Delivery D00001.
+Delivery D00001 runs.
+Mechanic Robert tunes up FishingBoat F00000.
+FishingBoat F00000 runs.
+Mechanic Robert tunes up FishingBoat F00001.
+FishingBoat F00001 runs.
+Mechanic Robert tunes up LifeBoat L00000.
+LifeBoat L00000 runs.
+Mechanic Robert tunes up LifeBoat L00001.
+LifeBoat L00001 runs.
+
+Mechanic: The current time is 1500.
+This is GarageAnnouncer Gary. The current time is 1500.
+Mechanic: The current time is 1600.
+This is GarageAnnouncer Gary. The current time is 1600.
+This is GarageAnnouncer Gary. The Mechanic is about to drive the vehicles.
+Mechanic Robert test drives Bike B00000.
+Bike B00000 drives.
+Mechanic Robert test drives Bike B00001.
+Bike B00001 drives.
+Mechanic Robert test drives Trike T00000.
+Trike T00000 drives.
+Mechanic Robert test drives Trike T00001.
+Trike T00001 drives.
+Mechanic Robert test drives Sidecar S00000.
+Sidecar S00000 drives.
+Mechanic Robert test drives Sidecar S00001.
+Sidecar S00001 drives.
+Mechanic Robert test drives Hatchback H00000.
+Hatchback H00000 drives.
+Mechanic Robert test drives Hatchback H00001.
+Hatchback H00001 drives.
+Mechanic Robert test drives SUV S50000.
+SUV S50000 drives.
+Mechanic Robert test drives SUV S50001.
+SUV S50001 drives.
+Mechanic Robert test drives Wagon W00000.
+Wagon W00000 drives.
+Mechanic Robert test drives Wagon W00001.
+Wagon W00001 drives.
+Mechanic Robert test drives Convertible C00000.
+Convertible C00000 drives.
+Mechanic Robert test drives Convertible C00001.
+Convertible C00001 drives.
+Mechanic Robert test drives Pickup P00000.
+Pickup P00000 drives.
+Mechanic Robert test drives Pickup P00001.
+Pickup P00001 drives.
+Mechanic Robert test drives Delivery D00000.
+Delivery D00000 drives.
+Mechanic Robert test drives Delivery D00001.
+Delivery D00001 drives.
+Mechanic Robert test drives FishingBoat F00000.
+FishingBoat F00000 drives.
+Mechanic Robert test drives FishingBoat F00001.
+FishingBoat F00001 drives.
+Mechanic Robert test drives LifeBoat L00000.
+LifeBoat L00000 drives.
+Mechanic Robert test drives LifeBoat L00001.
+LifeBoat L00001 drives.
+
+Mechanic: The current time is 1700.
+This is GarageAnnouncer Gary. The current time is 1700.
+Mechanic: The current time is 1800.
+This is GarageAnnouncer Gary. The current time is 1800.
+This is GarageAnnouncer Gary. The Mechanic is about to lock up the vehicles.
+Mechanic Robert locks up Bike B00000.
+Bike B00000 locked.
+Mechanic Robert locks up Bike B00001.
+Bike B00001 locked.
+Mechanic Robert locks up Trike T00000.
+Trike T00000 locked.
+Mechanic Robert locks up Trike T00001.
+Trike T00001 locked.
+Mechanic Robert locks up Sidecar S00000.
+Sidecar S00000 locked.
+Mechanic Robert locks up Sidecar S00001.
+Sidecar S00001 locked.
+Mechanic Robert locks up Hatchback H00000.
+Hatchback H00000 locked.
+Mechanic Robert locks up Hatchback H00001.
+Hatchback H00001 locked.
+Mechanic Robert locks up SUV S50000.
+SUV S50000 locked.
+Mechanic Robert locks up SUV S50001.
+SUV S50001 locked.
+Mechanic Robert locks up Wagon W00000.
+Wagon W00000 locked.
+Mechanic Robert locks up Wagon W00001.
+Wagon W00001 locked.
+Mechanic Robert locks up Convertible C00000.
+Convertible C00000 locked.
+Mechanic Robert locks up Convertible C00001.
+Convertible C00001 locked.
+Mechanic Robert locks up Pickup P00000.
+Pickup P00000 locked.
+Mechanic Robert locks up Pickup P00001.
+Pickup P00001 locked.
+Mechanic Robert locks up Delivery D00000.
+Delivery D00000 locked.
+Mechanic Robert locks up Delivery D00001.
+Delivery D00001 locked.
+Mechanic Robert locks up FishingBoat F00000.
+FishingBoat F00000 locked.
+Mechanic Robert locks up FishingBoat F00001.
+FishingBoat F00001 locked.
+Mechanic Robert locks up LifeBoat L00000.
+LifeBoat L00000 locked.
+Mechanic Robert locks up LifeBoat L00001.
+LifeBoat L00001 locked.
+Mechanic: The current time is 1900.
+This is GarageAnnouncer Gary. The current time is 1900.
+Mechanic: The current time is 2000.
+This is GarageAnnouncer Gary. The current time is 2000.
+This is GarageAnnouncer. Garage is closing for the day...
+Mechanic Robert leaves at Garage on Day 10.
+
+
+Process finished with exit code 0
